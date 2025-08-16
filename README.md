@@ -1,4 +1,4 @@
-# github-demo
+cd # github-demo
 This is my first Git Repository.
 <br>
-Author-Enoch Lal
+Author-Enoch Lal(learning git)
